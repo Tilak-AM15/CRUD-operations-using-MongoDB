@@ -1,0 +1,55 @@
+button {
+    width: 150px;
+    height: 45px;
+    background-color: #af4c90;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    border-color: black;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, transform 0.2s;
+    margin-top: 10px;
+}
+
+
+button:hover {
+    background-color: #458ea0;
+    transform: scale(1.05);
+}
+
+body{
+    background-color:honeydew
+}
+textarea {
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    resize: none;
+    font-size: 16px;
+    background-color: antiquewhite;
+}
+
+h3 {
+    color: rgb(66, 13, 13);
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+    height: 30px;
+    width: 350px;
+    background-color: beige;
+}
+
+#edit {
+    
+    padding: 5px;
+    padding-left: 5px;
+    margin: 10px;
+    text-align: center;
+}
