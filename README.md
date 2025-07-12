@@ -1,14 +1,14 @@
 "# CRUD-operations-using-MongoDB" 
-Make sure there is Installation of  Mongodb , Node.js , Express.js
-Install all the dependencies:-
-npm install init
-npm i express
-npm i ejs
-npm i mongoose
-node index.js :- to run the project
-Run the following commands in the command prompt to see data in the database:-
->>mongosh
->>show dbs
->>db.chats.find()
->>use chatapp
->>db.chats.find()
+1.Make sure there is Installation of  Mongodb , Node.js , Express.js
+2.Install all the dependencies:-
+3.npm install init
+4.npm i express
+5.npm i ejs
+6.npm i mongoose
+7.node index.js :- to run the project
+8.Run the following commands in the command prompt to see data in the database:-
+  8.1  >>mongosh
+  8.2  >>show dbs
+  8.3  >>db.chats.find()
+  8.4  >>use chatapp
+  8.5  >>db.chats.find()
